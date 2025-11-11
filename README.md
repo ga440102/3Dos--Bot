@@ -14,8 +14,6 @@
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Setup & Usage](#setup--usage)
-- [Proxy Recommendation](#proxy-recommendation)
-- [Purchase](#purchase)
 - [Support](#support)
 - [Contributing](#contributing)
 
@@ -23,8 +21,8 @@
 
 3Dos BOT is a automated tool designed to manage 3Dos nodes efficiently with multi-threading support. It provides seamless integration with free and private proxies, automated token extraction, and connection management with 3Dos Node Extension.
 
-**🔗 Get Started:** [Register on 3Dos Network](https://dashboard.3dos.io/register?ref_code=7201c2)  
-**🎁 Use My Code:** `7201c2`
+**🔗 Get Started:** [Register on 3Dos Network](https://dashboard.3dos.io/register?ref_code=a78e39)  
+**🎁 Use My Code:** `a78e39`
 
 ## ✨ Features
 
@@ -166,44 +164,9 @@ When starting the bot, you'll be prompted to choose:
    - Option `1`: Run with proxies
    - Option `2`: Run without proxy
 
-2. **Auto-Rotation:** 
-   - `y`: Enable automatic invalid proxy rotation
-   - `n`: Disable auto-rotation
-
-## 🌐 Proxy Recommendation
-
-<div align="left">
-  <img src="images/banner.png" alt="NST Proxy Banner" width="300">
-</div>
-
-For reliable multi-wallet automation and geo-restriction bypass, we recommend **Nstproxy**:
-
-### Why Nstproxy?
-- 💰 **Affordable pricing** starting from $0.1/GB
-- 🌍 **Global coverage** with multiple locations
-- 🔄 **Advanced rotation control**
-- 🛡️ **Anti-ban technology**
-
-### Get Started with Nstproxy
-- 🔗 **Website:** [Nstproxy.com](https://www.nstproxy.com/?utm_source=vonssy)
-- 💬 **Telegram:** [@nstproxy](https://t.me/nstproxy)
-- 🎮 **Discord:** [Join Server](https://discord.gg/5jjWCAmvng)
-- 📚 **GitHub:** [Nstproxy Repository](https://github.com/Nstproxy)
-
-> 🎁 **Special Offer:** Use code `VONSSY` for **10% OFF** your first purchase!
-
 ## 💖 Support the Project
 
 If this project has been helpful to you, consider supporting its development:
-
-### Cryptocurrency Donations
-
-| Network | Address |
-|---------|---------|
-| **EVM** | `0xe3c9ef9a39e9eb0582e5b147026cae524338521a` |
-| **TON** | `UQBEFv58DC4FUrGqinBB5PAQS7TzXSm5c1Fn6nkiet8kmehB` |
-| **SOL** | `E1xkaJYmAFEj28NPHKhjbf7GcvfdjKdvXju8d8AeSunf` |
-| **SUI** | `0xa03726ecbbe00b31df6a61d7a59d02a7eedc39fe269532ceab97852a04cf3347` |
 
 ## 🤝 Contributing
 
@@ -218,17 +181,12 @@ We welcome contributions from the community! Here's how you can help:
 ## 📞 Contact & Support
 
 - **Developer:** vonssy
-- **Purchase:** [Telegram @vonssy_2nd](https://t.me/vonssy_2nd)
-- **Issues:** [GitHub Issues](https://github.com/vonssy/3Dos-BOT/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/vonssy/3Dos-BOT/discussions)
-
----
+- **Purchase:** [Telegram @NextGen Nexus](https://t.me/Next_Gen_nexus)
 
 <div align="center">
 
-**Made with ❤️ by [vonssy](https://github.com/vonssy)**
+**Made with ❤️ by [AKHII](https://github.com/dopezayn)**
 
 *Thank you for your interest in 3Dos BOT!*  
-*Contact [@vonssy_2nd](https://t.me/vonssy_2nd) to purchase for only $5*
 
 </div>
