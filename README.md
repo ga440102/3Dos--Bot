@@ -21,8 +21,8 @@
 
 3Dos BOT is a automated tool designed to manage 3Dos nodes efficiently with multi-threading support. It provides seamless integration with free and private proxies, automated token extraction, and connection management with 3Dos Node Extension.
 
-**🔗 Get Started:** [Register on 3Dos Network](https://dashboard.3dos.io/register?ref_code=a78e39)  
-**🎁 Use My Code:** `a78e39`
+**🔗 Get Started:** [Register on 3Dos Network](https://dashboard.3dos.io/register?ref_code=b517d0)  
+**🎁 Use My Code:** `b517d0`
 
 ## ✨ Features
 
