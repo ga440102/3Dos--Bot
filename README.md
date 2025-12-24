@@ -164,29 +164,4 @@ When starting the bot, you'll be prompted to choose:
    - Option `1`: Run with proxies
    - Option `2`: Run without proxy
 
-## 💖 Support the Project
 
-If this project has been helpful to you, consider supporting its development:
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Here's how you can help:
-
-1. ⭐ **Star this repository** if you find it useful
-2. 👥 **Follow** for updates on new features
-3. 🐛 **Report issues** via GitHub Issues
-4. 💡 **Suggest improvements** or new features
-5. 🔧 **Submit pull requests** for bug fixes or enhancements
-
-## 📞 Contact & Support
-
-- **Developer:** vonssy
-- **Purchase:** [Telegram @NextGen Nexus](https://t.me/Next_Gen_nexus)
-
-<div align="center">
-
-**Made with ❤️ by [AKHII](https://github.com/dopezayn)**
-
-*Thank you for your interest in 3Dos BOT!*  
-
-</div>
