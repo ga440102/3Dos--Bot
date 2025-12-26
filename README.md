@@ -45,7 +45,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vonssy/3Dos-BOT.git
+git clone https://github.com/ga440102/3Dos--Bot.git
 cd 3Dos-BOT
 ```
 
